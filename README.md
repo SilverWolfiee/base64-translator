@@ -21,6 +21,7 @@
 ```git clone https://github.com/SilverWolfiee/base64-translator.git```
 2. Prepare your txt files
 3. Run the program
+```decoder.exe```
 4. Don't wheelchair
 
 
